@@ -5,9 +5,17 @@ description: "Esp32-based desk dashboard with an e-ink display"
 created_at: "2026-05-30"
 ---
 
+# 5/30/2026 8 PM - Started the CAD
+
+_Time spent: 2h_
+
+I don't have any photos yet since i forgot to take any and im wirting this on a laptop, (will be added once im back on da pc)
+I made the first part of the case, the idea is that there will be a plate that i will be able to slide into the main housing
+Also a stand-thingy would be nice, will think abt that
+
 # 5/24/2026 6 PM - Finished the firmware
 
-_Time spent: 1h_
+_Time spent: 1.5h_
 
 Assigned pins, made the code actually work with hardware
 I used claude for a clean display layout (forgive me)
@@ -19,7 +27,7 @@ will start designing the case asap
 
 # 5/9/2026 6 PM - Firmware and other minor thing
 
-_Time spent: 2.5h_
+_Time spent: 4.5h_
 
 Added all the parts to the bill of material,
 
@@ -65,7 +73,7 @@ I'll start working on the case and firmware soon since the pcb is finished (or s
 
 # 4/25/2026 1 PM - Research and PCB
 
-_Time spent: 4.5h_
+_Time spent: 5h_
 
 So I wanted to make something that would look nice on my desk and it landed on a dashboard.
 I got inspired by the spotify displays that people make so I want this to also be integrated with my spotify.
