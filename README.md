@@ -21,3 +21,13 @@ Its main purpouse is just sitting on a desk and looking nice, nothing much besid
 ## Renders [WIP]
 ![PCB](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/PCB-render.png)
 ![V0](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/dashboard-render-nocase.png)
+## Bill of materials
+|Name                           |Purpose                                   |Quantity|Total Cost (USD)|Link                                                |Distributor    |
+|-------------------------------|------------------------------------------|--------|----------------|----------------------------------------------------|---------------|
+|JST-PH 2.0 Female              |Connecting the battery to the mcu         |1       |0.84            |https://pl.aliexpress.com/item/4000199807342.htm    |AliExpress     |
+|100kOhm Resistors              |Safely reading the volatage of the battery|2       |0.00            |                                                    |My resistor kit|
+|4000mAh li-po battery          |The power source                          |1       |9.48            |https://pl.aliexpress.com/item/1005009889665207.html|AliExpress     |
+|Seeed Studio Xiao ESP32-S3 Plus|MCU                                       |1       |12.46           |https://pl.aliexpress.com/item/1005010291070801.html|AliExpress     |
+|Waveshare 4.2" e-ink display   |The display                               |1       |39.44           |https://pl.aliexpress.com/item/1005004260969887.html|AliExpress     |
+|PCB                            |It's... Well a PCB                        |1       |10.00           |                                                    |JLCPCB         |
+
