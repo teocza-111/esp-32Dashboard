@@ -64,7 +64,7 @@ I'll start working on the case and firmware soon since the pcb is finished (or s
 
 _Time spent: 4.5h_
 
-### So I wanted to make something that would look nice on my desk and it landed on a dashboard.
+So I wanted to make something that would look nice on my desk and it landed on a dashboard.
 I got inspired by the spotify displays that people make so I want this to also be integrated with my spotify.
 
 More on what will this exactly do will come when i start making the firmware.
