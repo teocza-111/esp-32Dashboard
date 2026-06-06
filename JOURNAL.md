@@ -6,7 +6,6 @@ created_at: "2026-05-30"
 ---
 
 # 4/25/2026 1 PM - Research and PCB
-
 _Time spent: 5h_
 
 So I wanted to make something that would look nice on my desk and it landed on a dashboard.
@@ -92,8 +91,21 @@ will start designing the case asap
 
 _Time spent: 2h_
 
-I don't have any photos yet since i forgot to take any and im wirting this on a laptop, (will be added once im back on da pc)
+I don't have any photos yet since i forgot to take any and im wirting this on a laptop,
+![v0](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/v0.png)
 I made the first part of the case, the idea is that there will be a plate that i will be able to slide into the main housing
 Also a stand-thingy would be nice, will think abt that
 
+# 6/6/2026 9 PM - V0 and V1 case
 
+_Time spent: 4h_
+
+Finished the V0 case design
+![v0](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/v0.png)
+but then when i tried fitting a model of the display i realised i messed up some dimensions
+I got to work on the v1, double checked every dimension etc.
+The idea for this one is a simple two part casing that i will glue together later
+Basically done apart from the stand, i dont really have an idea for them yet
+![v1assembly](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/V1assembly.png)
+(js ignore that it isnt aligned properly)
++ a quick pcb update since the edges werent asactly straight etc, should be a tiny but smaller now too
