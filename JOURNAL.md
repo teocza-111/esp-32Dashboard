@@ -109,3 +109,12 @@ Basically done apart from the stand, i dont really have an idea for them yet
 ![v1assembly](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/V1assembly.png)
 (js ignore that it isnt aligned properly)
 + a quick pcb update since the edges werent asactly straight etc, should be a tiny but smaller now too
+
+# 6/11/2026 7PM - Created a stand for the case
+
+_Time spent: 0.5h_
+
+Made a simple stand meant to hold the case, really nothing to talk about here
+This didn't take much time doesn't look spectacular.
+I really have no clue what to talk about in here sooo, yeah that should be the end of the design phase i hope this gets accepted
+![stand](https://github.com/teocza-111/esp-32Dashboard/blob/main/Media/Stand.png)
